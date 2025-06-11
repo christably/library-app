@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "image": "https://example.com/hamlet.jpg",
+    "genre": {
+      "type": "Fiction",
+      "category": "Tragedy"
+    },
+    "ratings": 4.8,
+    "price": 12.99,
+    "id": "618dedc4-2098-494b-9015-f459a5a2620b"
+  },
+  {
+    "title": "Things Fall Apart",
+    "author": "Chinua Achebe",
+    "image": "https://example.com/tfa.jpg",
+    "genre": {
+      "type": "Fiction",
+      "category": "African Books"
+    },
+    "ratings": 4.7,
+    "price": 9.99,
+    "id": "53d2b28b-1d4a-434d-812a-b0e946693f5c"
+  },
+  {
+    "title": "Macbeth",
+    "author": "William Shakespeare",
+    "image": "https://example.com/macbeth.jpg",
+    "genre": {
+      "type": "Fiction",
+      "category": "Horror"
+    },
+    "ratings": 4.5,
+    "price": 11.5,
+    "id": "5131497e-17d8-46b6-b327-c743bd6c1d57"
+  },
+  {
+    "title": "Cinderella",
+    "author": "Charles Perrault",
+    "image": "https://example.com/cinderella.jpg",
+    "genre": {
+      "type": "Fiction",
+      "category": "Fairy Tale"
+    },
+    "ratings": 4.3,
+    "price": null,
+    "id": "70ceab6a-0b26-4ae2-8dfd-1092e217cabe"
+  },
+  {
+    "title": "Sundiata: An Epic of Old Mali",
+    "author": "D.T. Niane",
+    "image": "https://example.com/sundiata.jpg",
+    "genre": {
+      "type": "Fiction",
+      "category": "Folklore"
+    },
+    "ratings": 4.4,
+    "price": 7.5,
+    "id": "1ffc41db-eff3-40c1-ac51-6f4fb60b3c6d"
+  },
+  {
+    "title": "Long Walk to Freedom",
+    "author": "Nelson Mandela",
+    "image": "https://example.com/mandela.jpg",
+    "genre": {
+      "type": "Non-fiction",
+      "category": "Autobiography"
+    },
+    "ratings": 4.9,
+    "price": 14,
+    "id": "93b00650-578b-4677-bf76-4d2eff7987a7"
+  },
+  {
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "image": "https://example.com/annefrank.jpg",
+    "genre": {
+      "type": "Non-fiction",
+      "category": "Autobiography"
+    },
+    "ratings": 4.8,
+    "price": 0,
+    "id": "cbf1cbcc-8012-4fc0-98b8-d3259f92596c"
+  },
+  {
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "image": "https://example.com/stevejobs.jpg",
+    "genre": {
+      "type": "Non-fiction",
+      "category": "Biography"
+    },
+    "ratings": 4.6,
+    "price": 15.99,
+    "id": "ad567c7f-1bdd-4af7-a0d4-4ddbbbc73e91"
+  },
+  {
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "image": "https://example.com/artofwar.jpg",
+    "genre": {
+      "type": "Non-fiction",
+      "category": "Philosophy"
+    },
+    "ratings": 4.5,
+    "price": null,
+    "id": "a85ea319-46e5-4ff5-ae42-dd3edfa5fd57"
+  },
+  {
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "image": "https://example.com/becoming.jpg",
+    "genre": {
+      "type": "Non-fiction",
+      "category": "Autobiography"
+    },
+    "ratings": 4.9,
+    "price": 18,
+    "id": "73adca5f-911e-49ea-9aee-fb189d008965"
+  },
+  {
+    "id": "3ba4f5bb-562a-465e-877c-733952bd23fd",
+    "title": "Afiyoo and the three fishes",
+    "image": "https://example.com/julius.jpg",
+    "author": "Peggy Oppong",
+    "genre": {
+      "type": "Fiction",
+      "category": "Tragedy"
+    },
+    "ratings": 4.2,
+    "price": 99
+  },
+  {
+    "id": "db63b8b2-d5c8-4ef9-8889-61d03dfb1e36",
+    "title": "four fishes",
+    "image": "https://example.com/julius.jpg",
+    "author": "Peggy Oppong",
+    "genre": {
+      "type": "Fiction",
+      "category": "Tragedy"
+    },
+    "ratings": 3.2,
+    "price": 41
+  }
+]
