@@ -142,5 +142,17 @@
     },
     "ratings": 3.2,
     "price": 41
+  },
+  {
+    "id": "60b4d2f2-7048-4d8c-998e-62503d210a80",
+    "title": "Earth",
+    "image": "https://example.com/broken.jpg",
+    "author": "N.K. Jemisin",
+    "genre": {
+      "type": "Fiction",
+      "category": "Fantasy"
+    },
+    "ratings": 4.8,
+    "price": 15
   }
 ]
